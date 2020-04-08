@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">TaktLwG 73 "S" (Laage)</name>
+            <index type="int">1</index>
+            <texture>Liveries/TaktLwG-73-S.png</texture>
+	    <RAFlights type="bool">true</RAFlights> <!-- RAF alternate beacon -->
+	    <beacon type="bool">true</beacon> <!-- red -->
+	    <strobe type="bool">true</strobe> <!-- white -->
+        </livery>
+    </model>
+</sim>
+</PropertyList>

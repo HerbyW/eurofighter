@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- Adapted from HerbyW; edited by D-EKSW in April 2020 -->
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">TaktLwG 74 (Neuburg)</name>
+            <index type="int">1</index>
+            <texture>Liveries/TaktLwG-74.png</texture>
+	    <RAFlights type="bool">true</RAFlights> <!-- RAF alternate beacon -->
+	    <beacon type="bool">true</beacon> <!-- red -->
+	    <strobe type="bool">true</strobe> <!-- white -->
+        </livery>
+    </model>
+</sim>
+</PropertyList>
